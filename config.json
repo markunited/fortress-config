@@ -1,0 +1,6 @@
+{
+  "imageBlurEnabled": true,
+  "textScanEnabled": true,
+  "safeSearchLevel": "strict",
+  "faceVerificationMinAge": 21
+}
